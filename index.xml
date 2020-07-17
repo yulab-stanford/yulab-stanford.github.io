@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu Lab</title>
-    <link>http://yulab-stanford.github.io/</link>
+    <link>https://yulab-stanford.github.io/</link>
     <description>Recent content on Yu Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://yulab-stanford.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yulab-stanford.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Charles Yu, MD</title>
-      <link>http://yulab-stanford.github.io/people/charles-yu/</link>
+      <link>https://yulab-stanford.github.io/people/charles-yu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-stanford.github.io/people/charles-yu/</guid>
+      <guid>https://yulab-stanford.github.io/people/charles-yu/</guid>
       <description>Charles Yu MD is an Assistant Professor of Ophthalmology at the Byers Eye Institute at Stanford.</description>
     </item>
     
     <item>
       <title>Daniel Palanker, PhD</title>
-      <link>http://yulab-stanford.github.io/people/daniel-palanker/</link>
+      <link>https://yulab-stanford.github.io/people/daniel-palanker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-stanford.github.io/people/daniel-palanker/</guid>
+      <guid>https://yulab-stanford.github.io/people/daniel-palanker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mark Rosenblatt, MD, PhD</title>
-      <link>http://yulab-stanford.github.io/people/mark-rosenblatt/</link>
+      <link>https://yulab-stanford.github.io/people/mark-rosenblatt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-stanford.github.io/people/mark-rosenblatt/</guid>
+      <guid>https://yulab-stanford.github.io/people/mark-rosenblatt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ibraim Vieira, MD</title>
-      <link>http://yulab-stanford.github.io/people/ibraim-vieira/</link>
+      <link>https://yulab-stanford.github.io/people/ibraim-vieira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-stanford.github.io/people/ibraim-vieira/</guid>
+      <guid>https://yulab-stanford.github.io/people/ibraim-vieira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Victoria Fan</title>
-      <link>http://yulab-stanford.github.io/people/victoria-fan/</link>
+      <link>https://yulab-stanford.github.io/people/victoria-fan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-stanford.github.io/people/victoria-fan/</guid>
+      <guid>https://yulab-stanford.github.io/people/victoria-fan/</guid>
       <description></description>
     </item>
     
