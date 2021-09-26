@@ -207,8 +207,12 @@ select {
 a:link {
   color: #317589; }
 
+a:visited {
+  color: #317589; }
+
 a:hover {
-  color: #1a1a37; }
+  color: #893131;
+  text-decoration: underline; }
 
 a.text-primary:hover {
   color: #1a1a37 !important; }
