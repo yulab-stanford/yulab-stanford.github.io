@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Lab</title>
+    <link>https://yulab-stanford.github.io/</link>
+    <description>Recent content on Yu Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Yu Lab.</copyright><atom:link href="https://yulab-stanford.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charles Yu, MD</title>
+      <link>https://yulab-stanford.github.io/people/charles-yu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yulab-stanford.github.io/people/charles-yu/</guid>
+      <description>Charles Yu MD is an Assistant Professor of Ophthalmology at the Byers Eye Institute at Stanford.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Palanker, PhD</title>
+      <link>https://yulab-stanford.github.io/people/daniel-palanker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yulab-stanford.github.io/people/daniel-palanker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibraim Vieira, MD</title>
+      <link>https://yulab-stanford.github.io/people/ibraim-vieira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yulab-stanford.github.io/people/ibraim-vieira/</guid>
+      <description>Ibraim Vieira MD is a doctorate student at the Universidade Federal de Sao Paulo (UNIFESP).</description>
+    </item>
+    
+    <item>
+      <title>Mark Rosenblatt, MD, PhD</title>
+      <link>https://yulab-stanford.github.io/people/mark-rosenblatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yulab-stanford.github.io/people/mark-rosenblatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victoria Fan</title>
+      <link>https://yulab-stanford.github.io/people/victoria-fan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yulab-stanford.github.io/people/victoria-fan/</guid>
+      <description>Victoria Fan completed her undergraduate training at Stanford University, where her work primarily involved developing new technologies for treating vision loss.</description>
+    </item>
+    
+  </channel>
+</rss>
